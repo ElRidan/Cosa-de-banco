@@ -1,0 +1,3 @@
+﻿  ejercicio.cpp
+C:\Users\billg\source\repos\EJercicio banco\SystemManager.h(41): warning C4715: 'SystemManager::comprobarUsuario': no todas las rutas de acceso de control devuelven un valor
+  ejercicio.vcxproj -> C:\Users\billg\source\repos\EJercicio banco\x64\Debug\ejercicio.exe
